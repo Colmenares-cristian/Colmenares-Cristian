@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Reemplaza esta URL por una imagen o GIF de tu app en la carpeta assets -->
- <a>  <img src="slider 2.png" alt="Vista previa de la plataforma sexeducation" width="100 px" height="100 px"> </a>
+ <a>  <img src="mxj_files-countdown-27669_512.gif" alt="Vista previa de la plataforma sexeducation" width="100 px" height="100 px"> </a>
 </p>
 
 <p align="center">
