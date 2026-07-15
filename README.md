@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Reemplaza esta URL por una imagen o GIF de tu app en la carpeta assets -->
-  <img src="./assets/banner-preview.png" alt="Vista previa de la plataforma sexeducation" width="700">
+ <a>  <img src="file:///C:/Users/ESTUDIANTE/Downloads/SEXEDUCATION/ViH_cOlOmBiA_wEb/index.html#inicio" alt="Vista previa de la plataforma sexeducation" width="700"> </a>
 </p>
 
 <p align="center">
