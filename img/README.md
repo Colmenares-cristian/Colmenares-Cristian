@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="slider 1.png" alt="Tema">
-  <img src="slider 3" alt="Enfoque" width="100 px" height="100 px">
+  <img src="slider 3.png" alt="Enfoque" width="100 px" height="100 px">
 </p>
 
 ---
