@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://shields.io" alt="Tema">
+  <img src="img/assets/slider 1.png" alt="Tema">
   <img src="https://shields.io" alt="Enfoque">
 </p>
 
